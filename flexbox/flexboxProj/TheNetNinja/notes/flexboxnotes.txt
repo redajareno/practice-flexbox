@@ -1,8 +1,9 @@
 flex box notes
 
 display: flex -> apply to use flex properties
-
 flex-wrap: wrap, wrap-reverse, nowrap;
+justify-content: center, flex-end, flex-start (default), space-around, space-between;
+
 
 flex-grow: 1;
 flex-shrink: 1; (barely used)
