@@ -1,0 +1,10 @@
+flex box notes
+
+display: flex -> apply to use flex properties
+
+flex-wrap: wrap, wrap-reverse, nowrap;
+
+flex-grow: 1;
+flex-shrink: 1; (barely used)
+flex-basis: 200px; -> min-width of 200px...
+flex: (flex-grow, flex-shrink, flex-basis); -> grow, shrink, & basis all in one
